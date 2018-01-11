@@ -15,7 +15,8 @@
     "redux": "^3.7.2",
     "redux-thunk": "^2.2.0",
     "render-if": "^0.1.1",
-    "styled-components": "^2.4.0"
+    "styled-components": "^2.4.0",
+    "victory": "^0.24.5"
   },
   "scripts": {
     "start": "react-scripts start",
